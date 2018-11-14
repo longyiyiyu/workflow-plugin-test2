@@ -1,0 +1,19 @@
+{
+  "name": "workflow-plugin-test2",
+  "version": "1.0.0",
+  "description": "test for workflow plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longyiyiyu/workflow-plugin-test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longyiyiyu/workflow-plugin-test2/issues"
+  },
+  "homepage": "https://github.com/longyiyiyu/workflow-plugin-test2#readme"
+}
