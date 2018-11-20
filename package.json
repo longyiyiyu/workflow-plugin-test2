@@ -1,6 +1,6 @@
 {
   "name": "workflow-plugin-test2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test for workflow plugin",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,9 @@
   "keywords": [
     "workflow",
     "plugin",
-    "init"
+    "init",
+    "dev",
+    "build"
   ],
   "repository": {
     "type": "git",
